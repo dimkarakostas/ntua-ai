@@ -4,7 +4,7 @@ Simulation of two robots in a room, where the first robot (T) moves with twice t
 
 Compiling
 ---------------------
-Compile the robots.cpp file using a Windows compiler.
+Compile the **robots.cpp** file using a Windows compiler.
 
 Usage
 ---------------------
