@@ -4,7 +4,7 @@ Design of an expert system for diagnosing 3 diseases: common cold, flu and pneum
 
 Run
 ---------------------
-Depending on the Prolog prolog you use, run the dr house.pl file into Prolog and give diagnose to use it.
+Depending on the Prolog prolog you use, run the **dr house.pl** file into Prolog and give diagnose to use it.
 
 Usage
 ---------------------
